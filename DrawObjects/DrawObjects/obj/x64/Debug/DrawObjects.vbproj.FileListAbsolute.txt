@@ -1,0 +1,10 @@
+D:\Users\lucas\OneDrive\Documentos\PROJESOFT\PROGRAMAÇÃO\Elevação Paredes\Protótipo 2\DrawObjects\DrawObjects\bin\x64\Debug\DrawObjects.dll
+D:\Users\lucas\OneDrive\Documentos\PROJESOFT\PROGRAMAÇÃO\Elevação Paredes\Protótipo 2\DrawObjects\DrawObjects\bin\x64\Debug\DrawObjects.pdb
+D:\Users\lucas\OneDrive\Documentos\PROJESOFT\PROGRAMAÇÃO\Elevação Paredes\Protótipo 2\DrawObjects\DrawObjects\bin\x64\Debug\DrawObjects.xml
+D:\Users\lucas\OneDrive\Documentos\PROJESOFT\PROGRAMAÇÃO\Elevação Paredes\Protótipo 2\DrawObjects\DrawObjects\obj\x64\Debug\DrawObjects.vbprojAssemblyReference.cache
+D:\Users\lucas\OneDrive\Documentos\PROJESOFT\PROGRAMAÇÃO\Elevação Paredes\Protótipo 2\DrawObjects\DrawObjects\obj\x64\Debug\DrawObjects.Resources.resources
+D:\Users\lucas\OneDrive\Documentos\PROJESOFT\PROGRAMAÇÃO\Elevação Paredes\Protótipo 2\DrawObjects\DrawObjects\obj\x64\Debug\DrawObjects.vbproj.GenerateResource.cache
+D:\Users\lucas\OneDrive\Documentos\PROJESOFT\PROGRAMAÇÃO\Elevação Paredes\Protótipo 2\DrawObjects\DrawObjects\obj\x64\Debug\DrawObjects.vbproj.CoreCompileInputs.cache
+D:\Users\lucas\OneDrive\Documentos\PROJESOFT\PROGRAMAÇÃO\Elevação Paredes\Protótipo 2\DrawObjects\DrawObjects\obj\x64\Debug\DrawObjects.dll
+D:\Users\lucas\OneDrive\Documentos\PROJESOFT\PROGRAMAÇÃO\Elevação Paredes\Protótipo 2\DrawObjects\DrawObjects\obj\x64\Debug\DrawObjects.xml
+D:\Users\lucas\OneDrive\Documentos\PROJESOFT\PROGRAMAÇÃO\Elevação Paredes\Protótipo 2\DrawObjects\DrawObjects\obj\x64\Debug\DrawObjects.pdb
