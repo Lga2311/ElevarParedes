@@ -1,13 +1,15 @@
-# Elevar Paredes
+## ElevarParedes IA:
 
-É um programa para auxíliar nos desenhos de elevação de parede estrutural.
-Atualmente ele é um protótipo feito em Excel e VBA que conseguem interagir, coletadar dados e inserir (desenhar) elementos.
+Esse é um projeto ainda é uma teoria em fase de teste, em que estou desenvolvendo uma IA capaz de aprender a definir os blocos de uma alvenaria estrutural no AutoCAD.
 
-#### Exemplo de uma Elevação de Parede Estrutural:
-<img align="center" alt="Origin" src="https://github.com/Lga2311/ElevarParedes/blob/main/images/PAREDE%20ORIGINAL%20FINALIZADA.png">
+### Ideia:
 
-#### Na versão atual, ele desenha as linhas auxiliares de uma parede:
+A ideia é que apartir de uma planta de alvenaria estrutural o programa consiga desenhar os detalhes em AutoCAD, e possa fazer a planta no REVIT.
+(Loucura eu sei)
 
-<img align="center" alt="Result" src="https://github.com/Lga2311/ElevarParedes/blob/main/images/Resultado%20Elevar%20paredes.png">
+### Pronto:
 
-
+- Coletar Dados das paredes no AutoCAD,
+- Relacionar Esquadrias (portas e janelas) com as suas respectivas paredes,
+- Definir regiões das fiadas,
+- Coletar e Amarzenar Elevações Modelo para treinamento da IA.
